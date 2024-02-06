@@ -1,0 +1,10 @@
+ec\edu\espe\segundoparcial\examengavilanes\repository\EmpresaRepository.class
+ec\edu\espe\segundoparcial\examengavilanes\domain\Productos.class
+ec\edu\espe\segundoparcial\examengavilanes\domain\Comentarios.class
+ec\edu\espe\segundoparcial\examengavilanes\ExamengavilanesApplication.class
+ec\edu\espe\segundoparcial\examengavilanes\controller\ProductoController.class
+ec\edu\espe\segundoparcial\examengavilanes\repository\ProductoRepository.class
+ec\edu\espe\segundoparcial\examengavilanes\domain\Empresas.class
+ec\edu\espe\segundoparcial\examengavilanes\service\ProductoService.class
+ec\edu\espe\segundoparcial\examengavilanes\service\EmpresaService.class
+ec\edu\espe\segundoparcial\examengavilanes\controller\EmpresaController.class
